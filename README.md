@@ -7,7 +7,7 @@ I'm Irina, a future Fullstack developer ✌️ from Ukraine 💛💙 .
 - 📫 How to reach me: i.koksharova.ua@gmail.com 
 - ⚡ Fun fact:  I am a happy person - I love what I do 😜)) 
 
-![CSS](https://simpleicons.org/icons/css3.svg)
+?CSS=CSS&logo=appveyor
 
 
 
