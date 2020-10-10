@@ -7,7 +7,7 @@ I'm Irina, a future Fullstack developer ✌️ from Ukraine 💛💙 .
 - 📫 How to reach me: i.koksharova.ua@gmail.com 
 - ⚡ Fun fact:  I am a happy person - I love what I do 😜)) 
 
-![Profile views](https://gpvc.arturio.dev/Irina-Koksharova/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
