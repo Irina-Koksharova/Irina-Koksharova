@@ -7,10 +7,8 @@ I'm Irina, a future Fullstack developer ✌️ from Ukraine 💛💙 .
 - 📫 How to reach me: i.koksharova.ua@gmail.com 
 - ⚡ Fun fact:  I am a happy person - I love what I do 😜)) 
 
-![HTML](html.png)
-![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-![Sass](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![CSS](https://simpleicons.org/icons/css3.svg)
+
 
 
 
