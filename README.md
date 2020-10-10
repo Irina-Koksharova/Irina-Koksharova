@@ -10,6 +10,7 @@ I'm Irina, a future Fullstack developer ✌️ from Ukraine 💛💙 .
 ![Profile views](https://gpvc.arturio.dev/github.com/Irina-Koksharova/)
 
 https://gpvc.arturio.dev/github-profile-views-counter
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
 
 
