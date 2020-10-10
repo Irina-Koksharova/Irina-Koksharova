@@ -1,4 +1,4 @@
-### Hi there 👋, nice to see you 😃.
+### Hi there, nice to see you 👋.
 #### Wellcome to my page!
 I'm Irina, a future Fullstack developer ✌️ from Ukraine 💛💙 .
 
