@@ -1,6 +1,6 @@
 ### Hi there, nice to see you 👋.
 #### Wellcome to my page!
-I'm Irina, a future Fullstack developer ✌️ from Ukraine 💛💙 .
+I'm Irina, a fullstack developer ✌️ from Ukraine 💛💙 .
 
 - 🔭 I’m currently working on a lot of different stuff 
 - 🌱 I’m currently learning everything... 
